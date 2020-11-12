@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(#60ebeb 0%, #fc2403 100%);
+    margin: 0;
+    padding-top: 00px;
+}
+
+#one {
+    width: 500px;
+}
+
+#two {
+     width: 500px;
+    height: 500px;
+}
+#three{
+    width: 500px;
+    height: 500px;
+}
+#fourth{
+    width: 500px;
+    height: 500px;
+}
+#cen{
+    width: 500px;
+    height: 500x;
+}
